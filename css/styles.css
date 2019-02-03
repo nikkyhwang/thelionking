@@ -2,13 +2,14 @@
   DIAGNOSTIC STYLING
 */
 body {
-  background: #05378c;
+  
 }
 
 /************
 LAYOUT
 ************/
 body {
+  background: #05378c;
   /* Center to Page   */
   margin: 0 auto;
   max-width: 56em;
@@ -19,6 +20,8 @@ body {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
   grid-gap: 1em;
+
+  color: white;
 }
 
 #header {
@@ -28,14 +31,17 @@ body {
   border: 2px solid white;
   background-color: #0542aa;
 }
-#footer {
-  background-color: #0542aa;
-}
 
 .nav2 {
   display: flex;
   justify-content: space-around;
   padding-top: 20px;
+  
+}
+
+a{
+  text-decoration: none;
+  color: white;
 }
 
 header, footer {
@@ -47,14 +53,16 @@ main {
 }
 
 aside {
+  border: 2px solid white;
   background-color: #0542aa;
   grid-column: span 2;
   text-align: center;
+  color: white;
 }
 
-a{
-  text-decoration: none;
-  color: black;
+
+#rated {
+  margin: 0 auto;
 }
 
 /************
@@ -94,7 +102,8 @@ FOOTER
 ************/
 footer {
   text-align: center;
-  background-color:whitesmoke;
+  background: #05378c;
+  color:white;
 }
 
 /************
