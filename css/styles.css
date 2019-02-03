@@ -2,11 +2,7 @@
   DIAGNOSTIC STYLING
 */
 body {
-  background: gray;
-}
-
-* {
-  outline: 1px dotted black;
+  background: #05378c;
 }
 
 /************
@@ -25,8 +21,24 @@ body {
   grid-gap: 1em;
 }
 
-header,
-footer {
+#header {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  border: 2px solid white;
+  background-color: #0542aa;
+}
+#footer {
+  background-color: #0542aa;
+}
+
+.nav2 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+
+header, footer {
   grid-column: 1 / span 5;
 }
 
@@ -35,9 +47,15 @@ main {
 }
 
 aside {
+  background-color: #0542aa;
   grid-column: span 2;
+  text-align: center;
 }
 
+a{
+  text-decoration: none;
+  color: black;
+}
 
 /************
 HEADER
@@ -76,6 +94,7 @@ FOOTER
 ************/
 footer {
   text-align: center;
+  background-color:whitesmoke;
 }
 
 /************
