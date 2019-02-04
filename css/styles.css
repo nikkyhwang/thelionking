@@ -1,9 +1,6 @@
 /*
   DIAGNOSTIC STYLING
 */
-body {
-  
-}
 
 /************
 LAYOUT
@@ -12,8 +9,8 @@ body {
   background: #05378c;
   /* Center to Page   */
   margin: 0 auto;
-  max-width: 56em;
-  padding: 1em 0;
+  max-width: 65em;
+
   
   /* CSS Grid Layout   */
   display: grid;
@@ -52,6 +49,15 @@ main {
   grid-column: 1 / span 3;
 }
 
+#actors{
+text-align: center;
+}
+
+.info{
+  text-align: center;
+  margin-bottom: -10px;
+}
+
 aside {
   border: 2px solid white;
   background-color: #0542aa;
@@ -72,13 +78,14 @@ HEADER
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 50%;
+  margin-top: -70px;
 }
 
 h3{
 display: flex;
 justify-content: center;
-  margin-top: -50px;
+  margin-top: -100px;
 }
 
 /************
@@ -95,7 +102,7 @@ video {
 }
 
 .mejs__time-current {
-  background: tomato;
+  background: steelblue;
 }
 
 /************
@@ -106,7 +113,10 @@ main section {
   flex-wrap: wrap;
   justify-content: center;
 }
-
+main article{
+  display: flex;
+  max-width: 100%;
+}
 /************
 FOOTER
 ************/
