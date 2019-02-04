@@ -68,8 +68,18 @@ aside {
 /************
 HEADER
 ************/
-/* Your Styles */
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
 
+h3{
+display: flex;
+justify-content: center;
+  margin-top: -50px;
+}
 
 /************
 MOVIE TRAILER w/ MEDIA ELEMENT PLAYER
