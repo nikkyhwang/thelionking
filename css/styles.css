@@ -116,7 +116,7 @@ a{
 
 h3{
 display: block;
-margin-top: 30px;
+margin-top: 10px;
 text-align: center;
 padding: 20px;
 background-color: #224f71;
@@ -136,7 +136,7 @@ span.word4, span.word1, span.word7,span.word11,span.word14, span.word17{
 }
 
 span.word10{
-  color: green;
+  color:rgb(37, 196, 37);
 }
 
 
