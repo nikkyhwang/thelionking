@@ -70,3 +70,5 @@
 	};
 
 })(jQuery);
+
+$('h3').lettering('words');

@@ -113,8 +113,22 @@ background-color: #224f71;
 border: 1px solid white;
 font-family: 'Open Sans', sans-serif;
 font-size: 20px;
-
 }
+
+span.word2, span.word5, span.word8, span.word12,span.word15, span.word18{
+  color: rgba(255, 77, 0, 0.845);
+}
+span.word3, span.word6, span.word9, span.word13,span.word16{
+  color:orange;
+}
+span.word4, span.word1, span.word7,span.word11,span.word14, span.word17{
+  color:gold;
+}
+
+span.word10{
+  color: green;
+}
+
 
 /************
 MOVIE TRAILER w/ MEDIA ELEMENT PLAYER
