@@ -66,6 +66,10 @@ aside {
   color: white;
 }
 
+#dvd{
+  align-self: center;
+  margin: 15px;
+}
 
 #rated {
   margin: 0 auto;
