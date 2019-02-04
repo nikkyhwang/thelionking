@@ -1,15 +1,19 @@
 /*
   DIAGNOSTIC STYLING
 */
+/* IMPORTS */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+@import url('https://fonts.googleapis.com/css?family=Skranji');
 
 /************
 LAYOUT
 ************/
 body {
-  background: #05378c;
+  background: #0b395c;
   /* Center to Page   */
   margin: 0 auto;
   max-width: 65em;
+
 
   
   /* CSS Grid Layout   */
@@ -21,24 +25,9 @@ body {
   color: white;
 }
 
-#header {
-  display: flex;
-  justify-content: space-around;
-  text-align: center;
-  border: 2px solid white;
-  background-color: #0542aa;
-}
-
-.nav2 {
-  display: flex;
-  justify-content: space-around;
-  padding-top: 20px;
-  
-}
-
-a{
-  text-decoration: none;
-  color: white;
+#brief{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;;
 }
 
 header, footer {
@@ -49,21 +38,21 @@ main {
   grid-column: 1 / span 3;
 }
 
-#actors{
-text-align: center;
-}
 
 .info{
   text-align: center;
   margin-bottom: -10px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
 
 aside {
   border: 2px solid white;
-  background-color: #0542aa;
+  background-color:#224f71;;
   grid-column: span 2;
   text-align: center;
   color: white;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #dvdname{
@@ -71,7 +60,7 @@ aside {
 }
 #dvd{
   align-self: center;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 button{
   background-color: darkorange;
@@ -85,37 +74,46 @@ button{
 
 }
 
-#rated {
-  margin: 0 auto;
-}
-
 /************
 HEADER
 ************/
-#logo {
-  position: absolute;
-top: -4%;
-left:35%;
-  width: 30%;
-  z-index: 2;
-
-}
-#lionking{
-  margin-top: 10px;
-  position: relative;
-  z-index: 1;
-  height:330px;
-  overflow:hidden;
+#logo{
   text-align: center;
+}
+
+#header {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  border: 2px solid white;
+  background-color: #224f71;;
+  font-family: 'Skranji', cursive;
+  font-size: 25px;
+  text-transform: uppercase;  
+}
+
+.nav2 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  position: relative;
+}
+
+a{
+  text-decoration: none;
+  color: white;
 }
 
 h3{
 display: block;
-margin-top: 10px;
+margin-top: 30px;
 text-align: center;
 padding: 20px;
-background-color: #0542aa;
+background-color: #224f71;
 border: 1px solid white;
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+
 }
 
 /************
@@ -147,14 +145,27 @@ main article{
   display: flex;
   max-width: 100%;
 }
+
+#actors{
+  text-align: center;
+  margin: 5px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+}
 /************
 FOOTER
 ************/
 footer {
   text-align: center;
-  background: #05378c;
+  background: #0b395c;
   color:white;
+  font-family: 'Open Sans', sans-serif;
+  font-size:12px;
 }
+#rated {
+  margin: 0 auto;
+}
+
 
 /************
 RWD
