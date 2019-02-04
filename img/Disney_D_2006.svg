@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1000"
+   height="806.802"
+   id="svg4747"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Disney D 2006.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview3059"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.56440349"
+     inkscape:cx="581.22076"
+     inkscape:cy="330.74132"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4747" />
+  <defs
+     id="defs4749">
+    <clipPath
+       id="clipPath3257">
+      <path
+         d="m 453.391,221.186 -66.778,0 0,-76.8 66.778,0 0,76.8 z"
+         id="path3259"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3317">
+      <path
+         d="m 453.391,221.186 -66.778,0 0,-76.8 66.778,0 0,76.8 z"
+         id="path3319"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata4752">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g5900"
+     transform="matrix(2.6511724,0,0,2.6511724,1.0917552e-5,-0.00146732)">
+    <g
+       style="fill:#000000"
+       id="g3281"
+       transform="matrix(23.557134,0,0,-23.557134,54.60543,185.40834)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3283"
+         d="M 0,0 C 0.08,0.596 0.973,1.883 4.438,2.032 7.903,2.182 9.486,1.245 9.505,0.815 9.524,0.382 8.831,-0.169 8.371,-0.224 7.914,-0.282 7.95,-0.094 7.959,-0.029 7.969,0.037 8.473,0.411 8.512,0.439 8.55,0.468 8.598,0.514 8.473,0.543 8.352,0.57 7.614,0.805 4.935,0.777 2.256,0.748 0.658,0.39 0.599,-0.347 0.531,-1.201 3.527,-3.05 6.938,-3.129 c 3.506,-0.08 5.23,1.577 5.246,3.269 C 12.212,3.095 7.123,6.739 0.329,7.149 -1.752,7.276 -1.68,7.076 -1.693,7 -1.705,6.926 -1.118,6.8 -1.118,6.551 c 0,-0.15 -0.475,-0.063 -0.651,0.014 -0.14,0.059 -0.549,0.323 -0.549,0.61 0,0.228 0.239,0.77 3.023,0.687 C 3.228,7.786 7.273,7.062 10.795,4.565 12.58,3.299 13.728,1.917 13.693,-0.103 13.642,-2.95 10.444,-4.149 7.173,-4.073 4.7,-4.017 -0.119,-2.599 0,0" />
+    </g>
+    <g
+       style="fill:#000000"
+       id="g3285"
+       transform="matrix(23.557134,0,0,-23.557134,156.53715,80.791118)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3287"
+         d="M 0,0 C 0.249,0 0.603,-1.573 0.548,-4.494 0.497,-7.166 0.622,-9.538 -0.15,-9.488 -0.824,-9.446 -0.75,-6.867 -0.7,-5.145 -0.652,-3.421 -0.45,0 0,0" />
+    </g>
+  </g>
+</svg>
