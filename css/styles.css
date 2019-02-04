@@ -66,9 +66,23 @@ aside {
   color: white;
 }
 
+#dvdname{
+  margin-top: 3px;
+}
 #dvd{
   align-self: center;
-  margin: 15px;
+  margin-top: 20px;
+}
+button{
+  background-color: darkorange;
+  color:white;
+  border: none;
+  border-radius: 6px;
+  padding: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-top: -10px;
+
 }
 
 #rated {
